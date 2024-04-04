@@ -15,9 +15,6 @@ vendor.lge.audio.hifi_rec.                          u:object_r:vendor_audio_prop
 vendor.lge.fm_gain_control_headset                  u:object_r:vendor_audio_prop:s0
 vendor.lge.fm_gain_control_speaker                  u:object_r:vendor_audio_prop:s0
 
-# Bluetooth
-persist.vendor.bt.a2dp_offload_cap		    u:object_r:bluetooth_a2dp_offload_prop:s0
-
 # Camera
 persist.vendor.lge.camera.                          u:object_r:vendor_camera_prop:s0
 ro.camera.req.fmq.size                              u:object_r:vendor_camera_prop:s0
